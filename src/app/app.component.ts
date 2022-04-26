@@ -20,7 +20,7 @@ export class AppComponent implements OnInit {
         }
       })
       this.coursesArr = res
-      this.idCourse = res[res.length - 1].id;
+      this.idCourse = res.length?res[res.length - 1].id:0;
     });
   }
   selectedCourse: Course = new Course();
