@@ -26,5 +26,5 @@ Ahora, para poder interactuar con la aplicación es necesario levantar el servid
 
 Una vez esté levantado el servidor del back puede agregar, editar o borrar cursos.
 
-![ezgif-3-079d27d5df](https://user-images.githubusercontent.com/92406653/165339315-dc6a6ca0-cca0-4ad3-beed-bea318d0bf2e.gif)
+![ezgif-3-079d27d5df](https://user-images.githubusercontent.com/92406653/165340433-771ad8bb-3c5b-4bb8-846a-6f5ae8d0fab5.gif)
 
